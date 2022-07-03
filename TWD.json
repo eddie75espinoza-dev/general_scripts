@@ -1,0 +1,206 @@
+{
+    "serie": "The Walking Dead",
+    "synapse": "",
+    "years": "2000-2010",
+    "isActive": "False",
+    "genre": "horror, zombie, apocalypse",
+    "audience": "G",
+    "homeTown":"Atlanta",
+    "seasons": [{
+        "season": "1",
+            "episode": [
+                {
+                    "number": "1",
+                    "title": "Los viejos tiempos",
+                    "epilogue": "Rick busca a su familia en un mundo aterrado por los muertos vivientes. Morgan y Duane ayudan a enseñarle a Rick las nuevas reglas de supervivencia."
+                },
+                {
+                    "number": "2",
+                    "title": "Agallas",
+                    "epilogue": "Sin saberlo, Rick provoca que un grupo de supervivientes queden atrapados por los caminantes y deban confrontar a un enemigo aún más peligroso que los muertos vivientes."
+                },
+                {
+                    "number": "3",
+                    "title": "Díselo a las ranas",
+                    "epilogue": "Rick regresa a Atlanta para recuperar una bolsa de pistolas y salvar la vida a un hombre. Lori y Shane lidian con el retorno de alguien que creían muerto."
+                },
+                {
+                    "number": 4,
+                    "title": "Muchachos",
+                    "epilogue": "La mision de Rick en Altalnta se pone enriesgo cuando las cosas van mal. Jim se trastorna en el campamento."
+                },
+                {
+                    "number": "5",
+                    "title": "Código Wildfire",
+                    "epilogue": "Rick guía al grupo al CDC después del ataque. Jim debe tomar una terrible decisión de vida o muerte."
+                },
+                {
+                    "number": "6",
+                    "title": "TS-19",
+                    "epilogue": "Un médico extraño les permite a Rick y al grupo entrar al CDC. Pero no todo es lo que parece en el recién descubierto refugio."
+                }
+            ]
+        },
+        {
+        "season": "2",        
+            "episode": [
+                {
+                    "number": "1",
+                    "title": "Lo que nos espera",
+                    "epilogue": "Rick guía al grupo fuera de Atlanta. En el camino los detiene una amenaza distinta, algo nunca antes visto. Alguien falta."   
+                },
+                {
+                    "number": "2",
+                    "title": "Sangria",
+                    "epilogue": "Ayudando a otros, Rick descubre un posible refugio seguro. Shane debe partir a una peligrosa misión para obtener suministros médicos urgentes"
+                },
+                {
+                    "number": "3",
+                    "title": "Guarda la ultima",
+                    "epilogue": "El grupo espera urgentemente el regreso de Shane. Shane está atrapado en una escuela, rodeado por caminantes. Daryl y Andrea buscan a alguien."
+                },
+                {
+                    "number": "4",
+                    "title": "La rosa cheroqui",
+                    "epilogue": "Rick negocia con Hershel para dejar que el grupo se quede en la granja, mientras otros contienden con una extraña amenaza. Glenn va a una misión."
+                },
+                {
+                    "number": "5",
+                    "title": "El chupacabras",
+                    "epilogue": "Solo en los bosques, Daryl encuentra una pista, pero lo hieren y lo atacan los caminantes. Rick cuestiona sus elecciones. Glenn obtiene señales mezcladas de Maggie."
+                },
+                {
+                    "number": "6",
+                    "title": "Secretos",
+                    "epilogue": "Glenn intenta guardar dos secretos. Andrea descubre una nueva habilidad y es forzada a ponerla a prueba. Rick aprende algo sobre alguien cercano."
+                },
+                {
+                    "number": "7",
+                    "title": "Practicamente muertos",
+                    "epilogue": "El grupo descubre una amenaza grave muy cerca de ellos. Rick trabaja con Hershel para evitar un peligroso callejón sin salida, y Dale enfrenta a Shane."
+                },
+                {
+                    "number": "8",
+                    "title": "Nebraska",
+                    "epilogue": "El grupo intenta restaurar el orden después de las consecuencias de un terrible descubrimiento. Hershel desaparece, Rick y Glenn deben seguirlo dentro del pueblo."
+                },
+                {
+                    "number": "9",
+                    "title": "Dedo en gatillo",
+                    "epilogue": "Atrapados, Rick, Hershel y Glenn luchan por sobrevivir a nuevos enemigos, tanto muertos como vivos. Shane se impone la misión de traer regreso a Lori la granja."
+                },
+                {
+                    "number": "10",
+                    "title": "A 30 kilómetros",
+                    "epilogue": ""
+                },
+                {
+                    "number": "11",
+                    "title": "Juez, jurado y verdugo",
+                    "epilogue": ""
+                },
+                {
+                    "number": "12",
+                    "title": "Los mejores ángeles",
+                    "epilogue": ""
+                },
+                {
+                    "number": "13",
+                    "title": "Junto al fuego que se extingue",
+                    "epilogue": ""
+                }
+            ]
+    }],
+    "characters":[
+        {
+            "name":"Rick Grimes",
+            "occupation": "police",
+            "genre":"male",
+            "age": "32",
+            "group": "principal"
+        },
+        {
+            "name":"Carl Grimes",
+            "occupation": "",
+            "genre":"male",
+            "age": "12",
+            "group": "principal"
+        },
+        {
+            "name":"Lori Grimes",
+            "occupation": "rick's wife",
+            "genre":"female",
+            "age": "32",
+            "group": ""
+        },
+        {
+            "name":"Glenn Rhee",
+            "occupation": "pizza's guy",
+            "genre":"male",
+            "age": "24",
+            "group": "principal"
+        },
+        {
+            "name":"Shane Walsh",
+            "occupation": "police",
+            "genre":"male",
+            "age": "34",
+            "group": "principal"
+        },
+        {
+            "name":"Daryl Dixon",
+            "occupation": "hunter",
+            "genre":"male",
+            "age": "34",
+            "group": "principal"
+        },
+        {
+            "name":"Dale Horvath",
+            "occupation": "retired",
+            "genre":"male",
+            "age": "60",
+            "group": ""
+        },
+        {
+            "name":"Maggie Greene",
+            "occupation": "",
+            "genre":"female",
+            "age": "25",
+            "group": "principal"
+        },{
+            "name":"Hershel Greene",
+            "occupation": "Veterinarian",
+            "genre":"male",
+            "age": "60",
+            "group": ""
+        },
+        {
+            "name":"Andrea",
+            "occupation": "",
+            "genre":"female",
+            "age": "40",
+            "group": ""
+        },
+        {
+            "name":"Carol Peletier",
+            "occupation": "",
+            "genre":"female",
+            "age": "50",
+            "group": "principal"
+        },
+        {
+            "name":"Negal",
+            "occupation": "",
+            "genre":"male",
+            "age": "58",
+            "group": "secondary"
+        },
+        {
+            "name":"Paul Rovia",
+            "occupation": "Jesus",
+            "genre":"male",
+            "age": "28",
+            "group": "secondary"
+        }
+    ]
+}

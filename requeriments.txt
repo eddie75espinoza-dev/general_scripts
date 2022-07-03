@@ -1,0 +1,8 @@
+# Lista de paquetes instalados
+flask
+jinja
+py-notifier
+pyttsx3
+plyer
+django
+turtle

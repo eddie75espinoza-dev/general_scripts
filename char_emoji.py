@@ -1,0 +1,15 @@
+print('\u2620', end=" ") # skulls and crossbones
+print('\u2615', end=" ") # coffee tea
+print('\u2614', end=" ") # umbrella
+print('\u260f', end=" ") # telephone
+print('\u2606', end=" ") # star
+print('\u2600', end=" ") # sun
+print('\u259e', end=" ") # Quadrant upper and lower
+print('\u2594', end=" ")
+print('\u24fe', end=" ")
+print('\u24d4', end=" ") # e in circle
+print('\u23f3', end=" ") # hourglass
+print('\u23f0', end=" ")
+print('\u23ba', end=" ")
+print('\u2368', end=" ")
+print('\u235f', end=" ")
